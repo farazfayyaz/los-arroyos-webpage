@@ -1,4 +1,4 @@
-##Los Arroyos Website
+Los Arroyos Website
 
 A website designed for a local Hispanic restaurant.
 
