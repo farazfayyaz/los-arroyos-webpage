@@ -1,4 +1,4 @@
-<h1>Los Arroyos Website</h1>
+##Los Arroyos Website
 
 A website designed for a local Hispanic restaurant.
 
